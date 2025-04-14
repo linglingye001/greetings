@@ -7,6 +7,13 @@ import (
 )
 
 // ExampleHello demonstrates how to use the Hello function.
+//
+// Parameters:
+//   - para1: xxxx
+//   - para2: xxxx
+//
+// Returns:
+//   - para3: xxxx
 func ExampleHello() {
     // Get a greeting message for "Alice"
     message := greetings.Hello("Alice")
